@@ -117,7 +117,7 @@
 /area/submap/mechtransportation)
 "z" = (
 /obj/machinery/mech_recharger,
-/obj/mecha/combat/marauder/old,
+/obj/effect/decal/mecha_wreckage/marauder,
 /turf/simulated/floor/tiled/techmaint,
 /area/submap/mechtransportation)
 "A" = (
