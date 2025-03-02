@@ -29,3 +29,21 @@
       through walls
   - qol: Teshari's and Xenochimera's 'listen in' verb has been upgraded to the new
       listen-in trait
+2025-03-02:
+  CHOMPStation2StaffMirrorBot:
+  - admin: fix internet audio player
+  - qol: people can now hide entertainment radio messages separately
+  Drathek:
+  - rscadd: Added OD pragma lints
+  - bugfix: Fixed various issues caught by errors e.g. icon_forge's apply method,
+      VV on a list, etc.
+  - bugfix: Fixed various issues with apply_damage where arguments were incorrect
+      for used_weapon
+  Kashargul, Nadyr:
+  - code_imp: replaces more font tags
+  Will:
+  - bugfix: motion tracking ability now lets you properly motion track
+  - qol: Motion tracker subsystem can be toggled off for hide and seek modes
+  - bugfix: no more randomly invisible marker beacons
+  tacoguy7765093:
+  - rscadd: Simplemob zorgoia markings added. Stars, full head, tail fade
